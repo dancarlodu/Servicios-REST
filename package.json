@@ -2,12 +2,7 @@
   "name": "rest",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "scripts": {
-    "start": "babel-node app.js --exec",
-    "dev": "nodemon app.js",
-    "devbabel": "nodemon app.js --exec babel-node"
-  },
+  "main": "app.js", 
   "keywords": [],
   "author": "",
   "license": "ISC",
